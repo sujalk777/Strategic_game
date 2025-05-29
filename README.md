@@ -23,8 +23,9 @@ A Python implementation of game theory concepts simulating strategic interaction
 -  Iterative simulation capabilities
 -  Evolutionary strategy support
 
-##Workflow
+##  Workflow
 
+```mermaid
 graph TD
     A[Initialize Game] --> B[Configure Players]
     B --> C[Set Payoff Matrix]
@@ -35,7 +36,7 @@ graph TD
     G -->|Yes| D
     G -->|No| H[Analyze Results]
     H --> I[Generate Visualizations]
-
+```
     
 ##  Installation
 
