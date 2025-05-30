@@ -2,7 +2,6 @@
 
 A Python implementation of game theory concepts simulating strategic interactions between players with various decision-making strategies.
 
-
 ##  Table of Contents
 - [Features](#-features)
 - [Installation](#-installation)
